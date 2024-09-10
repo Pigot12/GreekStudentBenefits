@@ -11,12 +11,12 @@
 - [Microsoft Office`🏢`](https://delos365.grnet.gr/)
 - [Last Pass`🔐`](https://www.lastpass.com/solutions/education/apac)(για 6 μήνες)
 - [Figma`📝`](https://www.figma.com/education/)
-- Πρόγραμμα από Cosmote
+- Πρόγραμμα από Cosmote🌐
   - [Whatup δωρεαν data και λεπτά ομιλίας](https://www.whatsup.gr/student/foitites)
   - [5GB κάθε μέρα.μέχρι 150 GB τον μήνα](https://www.whatsup.gr/whatsupia)
 - Πρόγραμμα από Nova
   - [Αρκετά πακέτα](https://nova.gr/etairia/deltia-typou/foithtikh-zwh-me-ypshles-taxythtes-kai-aperioristh-epikoinwnia)
-- [Vodaphone CU](https://www.vodafonecu.gr/foitites/foititika-paketa/)
+- [Vodaphone CU🔴](https://www.vodafonecu.gr/foitites/foititika-paketa/)
   - ΔΩΡΕΑΝ για τους 3 πρώτους μήνες Απεριόριστα λεπτά προς όλους, 300 SMS & 4GB
   και 600ΜΒ & 600’ προς CU κάθε μήνα και 5GB την πρώτη φορά που θα κατεβάσεις το My CU App.
 
@@ -43,4 +43,4 @@ We can offer you 50% off our Mail Plus, VPN Plus, or the Proton Unlimited plan f
 ---
 # Επιστροφές
 
-- [Public](https://www.public.gr/page/publicplus)
+- [Public🧡](https://www.public.gr/page/publicplus)
