@@ -2,17 +2,24 @@
 Επνευσμένη από [Cs-Video-Courses](https://github.com/Developer-Y/cs-video-courses)
 ---
 > [!NOTE]
-> Η λίστα μπορεί να μην είναι ενημερωμένη.`Τελειταία Ενημέρωση:7/9/2024`
+> Η λίστα μπορεί να μην είναι ενημερωμένη.`Τελειταία Ενημέρωση:10/9/2024`
 
 ---
 
 # ΔΩΡΕΑΝ ΠΡΑΓΜΑΤΑ
 - [Github Education Pack`🐱`](https://education.github.com/pack)
 - [Microsoft Office`🏢`](https://delos365.grnet.gr/)
-- [Last Pass`🔐`](https://www.lastpass.com/solutions/education/apac)(for 6 months)
+- [Last Pass`🔐`](https://www.lastpass.com/solutions/education/apac)(για 6 μήνες)
 - [Figma`📝`](https://www.figma.com/education/)
 - Πρόγραμμα από Cosmote
-  - Whatup δωρεαν data και λεπτά ομιλίας 
+  - [Whatup δωρεαν data και λεπτά ομιλίας](https://www.whatsup.gr/student/foitites)
+  - [5GB κάθε μέρα.μέχρι 150 GB τον μήνα](https://www.whatsup.gr/whatsupia)
+- Πρόγραμμα από Nova
+  - [Αρκετά πακέτα](https://nova.gr/etairia/deltia-typou/foithtikh-zwh-me-ypshles-taxythtes-kai-aperioristh-epikoinwnia)
+- [Vodaphone CU](https://www.vodafonecu.gr/foitites/foititika-paketa/)
+  - ΔΩΡΕΑΝ για τους 3 πρώτους μήνες Απεριόριστα λεπτά προς όλους, 300 SMS & 4GB
+  και 600ΜΒ & 600’ προς CU κάθε μήνα και 5GB την πρώτη φορά που θα κατεβάσεις το My CU App.
+
 
 ---
 # ΕΚΠΤΩΣΕΙΣ
