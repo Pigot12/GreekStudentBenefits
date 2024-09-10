@@ -25,7 +25,7 @@
 - Μειωμένα ακτοπλοικά⛵
   - [Blue Star Ferries](https://www.bluestarferries.com/el-gr/prosfores-ekptoseis/50-ekptosi-stous-neoeisachthentes-foitites-2024)
   - [Hellenic Seaways](https://www.hellenicseaways.gr/el-gr/prosfores-ekptoseis/50-ekptosi-stous-neoeisachthentes-foitites-2024)
-- Proton📧 (If you send to the support.
+- [Proton📧](https://proton.me/) (If you send to the support.
 We can offer you 50% off our Mail Plus, VPN Plus, or the Proton Unlimited plan for 1 year (yearly payment). To be eligible for this discounted price, we request proof of your student status.)
 
 ## Πληροφορική
