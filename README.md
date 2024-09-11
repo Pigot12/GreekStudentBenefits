@@ -32,8 +32,9 @@
 - Μειωμένα ακτοπλοικά⛵
   - [Blue Star Ferries](https://www.bluestarferries.com/el-gr/prosfores-ekptoseis/50-ekptosi-stous-neoeisachthentes-foitites-2024)
   - [Hellenic Seaways](https://www.hellenicseaways.gr/el-gr/prosfores-ekptoseis/50-ekptosi-stous-neoeisachthentes-foitites-2024)
-  - [Ευρωπαική Κάρτα Νέων](https://europeanyouthcard.gr/)
 - [Proton📧](https://proton.me/) (Άμα στείλεις στο support μπορούν να σου δώσουν 50% στο Mail Plus,στο VPN Plus ή στο Proton Unlimited για ένα χρόνο(ετήσια πληρωμή).
+- [Ευρωπαική Κάρτα Νέων](https://europeanyouthcard.gr/)
+
 
 ## Πληροφορική
 - [Code Academy💻](https://www.codecademy.com/resources/blog/codecademy-pro-student-plan/)
