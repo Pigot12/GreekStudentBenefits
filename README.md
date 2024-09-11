@@ -2,7 +2,7 @@
 Επνευσμένη από [Cs-Video-Courses](https://github.com/Developer-Y/cs-video-courses)
 ---
 > [!NOTE]
-> Η λίστα μπορεί να μην είναι ενημερωμένη.`Τελειταία Ενημέρωση:10/9/2024`
+> Η λίστα μπορεί να μην είναι ενημερωμένη.`Τελειταία Ενημέρωση:11/9/2024`
 
 ---
 
@@ -14,7 +14,7 @@
 - Πρόγραμμα από Cosmote🌐
   - [Whatup δωρεαν data και λεπτά ομιλίας](https://www.whatsup.gr/student/foitites)
   - [5GB κάθε μέρα.μέχρι 150 GB τον μήνα](https://www.whatsup.gr/whatsupia)
-- Πρόγραμμα από Nova
+- Πρόγραμμα από Nova🖤
   - [Αρκετά πακέτα](https://nova.gr/etairia/deltia-typou/foithtikh-zwh-me-ypshles-taxythtes-kai-aperioristh-epikoinwnia)
 - [Vodaphone CU🔴](https://www.vodafonecu.gr/foitites/foititika-paketa/)
   - ΔΩΡΕΑΝ για τους 3 πρώτους μήνες Απεριόριστα λεπτά προς όλους, 300 SMS & 4GB
@@ -32,8 +32,8 @@
 - Μειωμένα ακτοπλοικά⛵
   - [Blue Star Ferries](https://www.bluestarferries.com/el-gr/prosfores-ekptoseis/50-ekptosi-stous-neoeisachthentes-foitites-2024)
   - [Hellenic Seaways](https://www.hellenicseaways.gr/el-gr/prosfores-ekptoseis/50-ekptosi-stous-neoeisachthentes-foitites-2024)
-- [Proton📧](https://proton.me/) (If you send to the support.
-We can offer you 50% off our Mail Plus, VPN Plus, or the Proton Unlimited plan for 1 year (yearly payment). To be eligible for this discounted price, we request proof of your student status.)
+  - [Ευρωπαική Κάρτα Νέων](https://europeanyouthcard.gr/)
+- [Proton📧](https://proton.me/) (Άμα στείλεις στο support μπορούν να σου δώσουν 50% στο Mail Plus,στο VPN Plus ή στο Proton Unlimited για ένα χρόνο(ετήσια πληρωμή).
 
 ## Πληροφορική
 - [Code Academy💻](https://www.codecademy.com/resources/blog/codecademy-pro-student-plan/)
