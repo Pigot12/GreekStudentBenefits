@@ -8,6 +8,10 @@
 
 # ΔΩΡΕΑΝ ΠΡΑΓΜΑΤΑ
 - [Github Education Pack`🐱`](https://education.github.com/pack)
+  -Περιλαμβάνει
+      -Jetbrains
+      -Microsoft Azure για ένα χρόνο
+      -πολλά ακόμα 
 - [Microsoft Office`🏢`](https://delos365.grnet.gr/)
 - [Last Pass`🔐`](https://www.lastpass.com/solutions/education/apac)(για 6 μήνες)
 - [Figma`📝`](https://www.figma.com/education/)
@@ -19,7 +23,8 @@
 - [Vodaphone CU🔴](https://www.vodafonecu.gr/foitites/foititika-paketa/)
   - ΔΩΡΕΑΝ για τους 3 πρώτους μήνες Απεριόριστα λεπτά προς όλους, 300 SMS & 4GB
   και 600ΜΒ & 600’ προς CU κάθε μήνα και 5GB την πρώτη φορά που θα κατεβάσεις το My CU App.
-
+ - Matlab🔢
+   -[ΠΑΠΕΙ](https://sso.unipi.gr/login?service=https%3A%2F%2Fidp.unipi.gr%2Fcasauth%2Ffacade%2Fnorenew%3Fidp%3Dhttps%3A%2F%2Fidp.unipi.gr%2Fidp%2FexternalAuthnCallback) 
 
 ---
 # ΕΚΠΤΩΣΕΙΣ
@@ -33,7 +38,7 @@
   - [Blue Star Ferries](https://www.bluestarferries.com/el-gr/prosfores-ekptoseis/50-ekptosi-stous-neoeisachthentes-foitites-2024)
   - [Hellenic Seaways](https://www.hellenicseaways.gr/el-gr/prosfores-ekptoseis/50-ekptosi-stous-neoeisachthentes-foitites-2024)
 - [Proton📧](https://proton.me/) (Άμα στείλεις στο support μπορούν να σου δώσουν 50% στο Mail Plus,στο VPN Plus ή στο Proton Unlimited για ένα χρόνο(ετήσια πληρωμή).
-- [Ευρωπαική Κάρτα Νέων](https://europeanyouthcard.gr/)
+- [Ευρωπαική Κάρτα Νέων💳](https://europeanyouthcard.gr/)
 
 
 ## Πληροφορική
@@ -45,3 +50,12 @@
 # Επιστροφές
 
 - [Public🧡](https://www.public.gr/page/publicplus)
+
+---
+
+## Για φοιτητές του ΠΑΠΕΙ
+- [STATGRAPHICS📈](https://helpdesk.unipi.gr/software/public/Statgraphics_Centurion_18.zip)
+  -Οδηγίες για την εγκατάσταση,[εδώ](https://helpdesk.unipi.gr/software/Statgraphics_Installation.pdf)
+-[SPSS](https://helpdesk.unipi.gr/software/)
+  - Πρέπει να είστε συνδεμένη στο δίκτυο του ΠΑΠΕΙ
+
