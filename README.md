@@ -24,7 +24,7 @@
   - ΔΩΡΕΑΝ για τους 3 πρώτους μήνες Απεριόριστα λεπτά προς όλους, 300 SMS & 4GB
   και 600ΜΒ & 600’ προς CU κάθε μήνα και 5GB την πρώτη φορά που θα κατεβάσεις το My CU App.
  - Matlab🔢
-   -[ΠΑΠΕΙ](https://sso.unipi.gr/login?service=https%3A%2F%2Fidp.unipi.gr%2Fcasauth%2Ffacade%2Fnorenew%3Fidp%3Dhttps%3A%2F%2Fidp.unipi.gr%2Fidp%2FexternalAuthnCallback) 
+   - [ΠΑΠΕΙ](https://sso.unipi.gr/login?service=https%3A%2F%2Fidp.unipi.gr%2Fcasauth%2Ffacade%2Fnorenew%3Fidp%3Dhttps%3A%2F%2Fidp.unipi.gr%2Fidp%2FexternalAuthnCallback) 
 
 ---
 # ΕΚΠΤΩΣΕΙΣ
@@ -55,7 +55,7 @@
 
 ## Για φοιτητές του ΠΑΠΕΙ
 - [STATGRAPHICS📈](https://helpdesk.unipi.gr/software/public/Statgraphics_Centurion_18.zip)
-  -Οδηγίες για την εγκατάσταση,[εδώ](https://helpdesk.unipi.gr/software/Statgraphics_Installation.pdf)
--[SPSS](https://helpdesk.unipi.gr/software/)
+  - Οδηγίες για την εγκατάσταση,[εδώ](https://helpdesk.unipi.gr/software/Statgraphics_Installation.pdf)
+- [SPSS](https://helpdesk.unipi.gr/software/)
   - Πρέπει να είστε συνδεμένη στο δίκτυο του ΠΑΠΕΙ
 
