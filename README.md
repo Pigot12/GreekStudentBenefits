@@ -39,6 +39,7 @@
   - [Hellenic Seaways](https://www.hellenicseaways.gr/el-gr/prosfores-ekptoseis/50-ekptosi-stous-neoeisachthentes-foitites-2024)
 - [Proton📧](https://proton.me/) (Άμα στείλεις στο support μπορούν να σου δώσουν 50% στο Mail Plus,στο VPN Plus ή στο Proton Unlimited για ένα χρόνο(ετήσια πληρωμή).
 - [Ευρωπαική Κάρτα Νέων💳](https://europeanyouthcard.gr/)
+- [ΔΕΗ myHome 4Students](https://www.dei.gr/el/gia-to-spiti/revma/myhome-4students/)
 
 
 ## Πληροφορική
