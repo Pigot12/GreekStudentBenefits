@@ -33,23 +33,25 @@ ISIC
    </details>
 ---
 ###Εκπτώσεις
- Τech
+ <details>
+   <summary>Τech</summary>
 Github Education Pack`🐱`](https://education.github.com/pack)
-  -Περιλαμβάνει
       -[Jetbrains](https://www.jetbrains.com/community/education/#students)
       -[Notion](https://education.github.com/pack)
       -Microsoft Azure για ένα χρόνο
       -πολλά ακόμα
-- [Last Pass`🔐`](https://www.lastpass.com/solutions/education/apac)(για 6 μήνες)
-- [Figma`📝`](https://www.figma.com/education/)
- - Matlab🔢
+[Last Pass`🔐`](https://www.lastpass.com/solutions/education/apac)(για 6 μήνες)
+[Figma`📝`](https://www.figma.com/education/)
+ Matlab🔢
    - [ΠΑΠΕΙ](https://sso.unipi.gr/login?service=https%3A%2F%2Fidp.unipi.gr%2Fcasauth%2Ffacade%2Fnorenew%3Fidp%3Dhttps%3A%2F%2Fidp.unipi.gr%2Fidp%2FexternalAuthnCallback) 
-  Learning Coding
+  </details>
+<details>
+   <summary>Learning Coding</summary>
   - [Code Academy💻](https://www.codecademy.com/resources/blog/codecademy-pro-student-plan/)
 - [Try hack me🏫](https://help.tryhackme.com/en/articles/6494960-student-discount)
 - [Hack the box🏫](https://help.hackthebox.com/en/articles/7973133-getting-the-student-subscription)
-
----
+</details>
+  ---
 # ΕΚΠΤΩΣΕΙΣ
 
 - [Spotify Student🎵](https://www.spotify.com/gr/student/)
